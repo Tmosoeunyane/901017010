@@ -1,0 +1,15 @@
+.graph-placeholder, .rotating-images {
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    width: 80%;
+    text-align: center;
+    background-color: red;
+  }
+  
+  .rotating-images {
+    height: 200px;
+    /* Add your rotating animation here */
+  }
+  
